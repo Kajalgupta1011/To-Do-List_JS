@@ -53,7 +53,8 @@ body {
 .app {
     border-color: #e43131;
     display: grid;
-    grid-template-columns: 225px 1fr;
+    /* grid-template-columns: 225px 1fr; */
+    grid-template-columns: 300px 1fr;
     border-radius: 16px;
     overflow: hidden;
     height: auto;
